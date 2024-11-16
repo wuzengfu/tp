@@ -166,6 +166,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/cth06-github.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-data-conductors": "Project: data_coNdUctorS"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/johndoe.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
@@ -191,9 +199,9 @@
     },
     {
       "src": "team/winstonjin.md",
-      "title": "John Doe's Project Portfolio Page",
+      "title": "Winston Jin's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-data-conductors": "Project: Data coNdUctorS"
       },
       "headingKeywords": {}
     },
